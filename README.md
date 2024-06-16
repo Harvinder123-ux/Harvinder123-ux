@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harvinder123-ux
-- 👀 I’m interested in Web and Software Developmen
+- 👀 I’m interested in Web and Software DevelopmenT
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on Web Developing
 - 📫 How to reach me? Click My Linekdin Profile
